@@ -1,0 +1,6 @@
+C:\Users\metoo\OneDrive\ParallelundVerteilteSystem_Aufgaben\FileTools\hey\123.txt
+C:\Users\metoo\OneDrive\ParallelundVerteilteSystem_Aufgaben\FileTools\hey\1234.txt
+
+C:\Users\metoo\OneDrive\ParallelundVerteilteSystem_Aufgaben\FileTools\hey\1.txt
+C:\Users\metoo\OneDrive\ParallelundVerteilteSystem_Aufgaben\FileTools\hey\2.txt
+
